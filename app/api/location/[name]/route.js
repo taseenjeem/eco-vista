@@ -10,7 +10,9 @@ export const GET = async (_request, { params }) => {
 
   return NextResponse.json(
     founded || {
-      err_message: "Sorry, this location is not available in our data.",
+      error: {
+        message: "Sorry, this location is not available in our data.",
+      },
     }
   );
 };
