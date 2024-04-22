@@ -1,0 +1,68 @@
+[
+  { "location": "New York City", "latitude": 40.7128, "longitude": -74.006 },
+  { "location": "Tokyo", "latitude": 35.6895, "longitude": 139.6917 },
+  { "location": "Sydney", "latitude": -33.8688, "longitude": 151.2093 },
+  { "location": "Paris", "latitude": 48.8566, "longitude": 2.3522 },
+  { "location": "London", "latitude": 51.5074, "longitude": -0.1278 },
+  { "location": "Rio de Janeiro", "latitude": -22.9068, "longitude": -43.1729 },
+  { "location": "Dhaka", "latitude": 23.7104, "longitude": 90.4074 },
+  { "location": "Chittagong", "latitude": 22.3475, "longitude": 91.8123 },
+  { "location": "Sylhet", "latitude": 24.8949, "longitude": 91.8687 },
+  { "location": "Cox's Bazar", "latitude": 21.4356, "longitude": 91.979 },
+  { "location": "Rome", "latitude": 41.9028, "longitude": 12.4964 },
+  { "location": "Cairo", "latitude": 30.0444, "longitude": 31.2357 },
+  { "location": "Moscow", "latitude": 55.7558, "longitude": 37.6173 },
+  {
+    "location": "Great Barrier Reef",
+    "latitude": -18.2861,
+    "longitude": 147.7
+  },
+  { "location": "Grand Canyon", "latitude": 36.107, "longitude": -112.113 },
+  {
+    "location": "Yellowstone National Park",
+    "latitude": 44.428,
+    "longitude": -110.5885
+  },
+  { "location": "Dubai", "latitude": 25.2048, "longitude": 55.2708 },
+  { "location": "Machu Picchu", "latitude": -13.1631, "longitude": -72.545 },
+  { "location": "Berlin", "latitude": 52.52, "longitude": 13.405 },
+  { "location": "Mexico City", "latitude": 19.4326, "longitude": -99.1332 },
+  { "location": "Johannesburg", "latitude": -26.2041, "longitude": 28.0473 },
+  { "location": "Mount Everest", "latitude": 27.9881, "longitude": 86.925 },
+  { "location": "Amazon Rainforest", "latitude": -3.16, "longitude": -60.02 },
+  { "location": "Istanbul", "latitude": 41.0082, "longitude": 28.9784 },
+  { "location": "Kyoto", "latitude": 35.0116, "longitude": 135.7681 },
+  { "location": "Petra", "latitude": 30.3285, "longitude": 35.4444 },
+  { "location": "Taj Mahal", "latitude": 27.1751, "longitude": 78.0421 },
+  { "location": "Barcelona", "latitude": 41.3851, "longitude": 2.1734 },
+  { "location": "Singapore", "latitude": 1.3521, "longitude": 103.8198 },
+  { "location": "Los Angeles", "latitude": 34.0522, "longitude": -118.2437 },
+  { "location": "Toronto", "latitude": 43.6532, "longitude": -79.3832 },
+  { "location": "Mumbai", "latitude": 19.076, "longitude": 72.8777 },
+  { "location": "Venice", "latitude": 45.4408, "longitude": 12.3155 },
+  { "location": "Cape Town", "latitude": -33.9249, "longitude": 18.4241 },
+  {
+    "location": "Serengeti National Park",
+    "latitude": -2.326,
+    "longitude": 34.8488
+  },
+  { "location": "Niagara Falls", "latitude": 43.0768, "longitude": -79.0759 },
+  { "location": "Pyramids of Giza", "latitude": 29.9773, "longitude": 31.1325 },
+  { "location": "The Colosseum", "latitude": 41.8902, "longitude": 12.4922 },
+  { "location": "Ha Long Bay", "latitude": 20.9079, "longitude": 107.198 },
+  { "location": "Prague", "latitude": 50.0755, "longitude": 14.4378 },
+  { "location": "Buenos Aires", "latitude": -34.6037, "longitude": -58.3816 },
+  {
+    "location": "Zhangjiajie National Forest Park",
+    "latitude": 29.3473,
+    "longitude": 110.4816
+  },
+  { "location": "Bora Bora", "latitude": -16.5004, "longitude": -151.7415 },
+  { "location": "Budapest", "latitude": 47.4979, "longitude": 19.0402 },
+  {
+    "location": "Galapagos Islands",
+    "latitude": -0.7605,
+    "longitude": -90.3106
+  },
+  { "location": "Angkor Wat", "latitude": 13.4125, "longitude": 103.867 }
+]
