@@ -1,5 +1,7 @@
+import LocationDetector from "@/components/LocationDetector";
+
 const page = () => {
-  return <h1>Hello World</h1>;
+  return <LocationDetector />;
 };
 
 export default page;
