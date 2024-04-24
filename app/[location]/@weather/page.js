@@ -1,5 +1,12 @@
-const WeatherPage = () => {
-  return <h1>Hello World weather</h1>;
+import WeatherComponent from "@/components/WeatherComponent";
+
+const WeatherPage = ({ params, searchParams }) => {
+  return (
+    <WeatherComponent
+      lat={searchParams?.latitude}
+      long={searchParams?.longitude}
+    />
+  );
 };
 
 export default WeatherPage;
