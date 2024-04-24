@@ -1,5 +1,12 @@
-const TemperaturePage = () => {
-  return <h1>Hello World temp</h1>;
+import TempComponent from "@/components/TempComponent";
+
+const TemperaturePage = ({ params, searchParams }) => {
+  return (
+    <TempComponent
+      lat={searchParams?.latitude}
+      long={searchParams?.longitude}
+    />
+  );
 };
 
 export default TemperaturePage;

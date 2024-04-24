@@ -30,6 +30,7 @@ const LocationDetector = () => {
         {isLoading && (
           <>
             <Image
+              unoptimized
               src="/assets/images/network.gif"
               alt="Loading..."
               height={500}
